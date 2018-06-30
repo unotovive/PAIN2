@@ -107,7 +107,7 @@ p{
     position: relative;
     width: 480px;
     max-width: 100%;
-    margin: 25vh auto 0;
+    margin: 25vh auto 0!important;
     background: #fff;
     border-radius: 2px;
     box-shadow: 0 1px 50px #555;

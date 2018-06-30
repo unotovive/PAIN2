@@ -86,7 +86,7 @@ p{
   .dialog{
     position: relative;
     width: 100%;
-    margin: 25vh 0;
+    margin: 25vh 0!important;
     background: #fff;
     border-radius: 2px;
     box-shadow: 0 1px 50px #555;
